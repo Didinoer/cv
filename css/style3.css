@@ -1,0 +1,82 @@
+body
+{
+background-color: #CFFFDC;
+text-align: center;
+position: relative;
+
+}
+.b1
+{
+  color: #7900FF;
+  position: absolute;
+  font-family: 'Caveat', cursive;
+  top: 100px;
+  right: 600px;
+}
+
+.gambar1
+{
+  position: absolute;
+  top: 350px;
+  left: 150px;
+
+}
+
+.gambar2
+{
+  position: absolute;
+  top: 350px;
+  left: 750px;
+"
+}
+.homepage
+{
+  position: absolute;
+  font-family: 'Caveat', cursive;
+  top: 40px;
+  right: 230px;
+}
+
+.kontak
+{
+  position: absolute;
+  font-family: 'Caveat', cursive;
+  top: 40px;
+  right: 80px;
+}
+
+.more
+{
+  position: absolute;
+  top: 750px;
+  left: 600px;
+
+}
+
+.py
+{
+  color: #7900FF;
+  position: absolute;
+  font-family: 'Caveat', cursive;
+  top: 200px;
+  right: 300px;
+  left: 300px;
+
+}
+.passwordmannager
+{
+  color: #7900FF;
+  position: absolute;
+  font-family: 'Caveat', cursive;
+  top: 280px;
+  left: 300px;
+
+
+}
+.snakegame
+{
+  color: #7900FF;
+  position: absolute;
+  font-family: 'Caveat', cursive;
+  top: 280px;
+  left: 900px;

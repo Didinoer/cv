@@ -1,0 +1,76 @@
+body
+{
+background-color: #CFFFDC;
+text-align: center;
+position: relative;
+
+}
+
+.a1
+{
+  color: #7900FF;
+  position: absolute;
+  font-family: 'Caveat', cursive;
+  right: 800px;
+  top: 500px;
+
+}
+
+.a2
+{
+  color: #7900FF;
+  position: absolute;
+  font-family: 'Caveat', cursive;
+  right: 300px;
+  top: 500px;
+
+}
+
+.homepage
+{
+position: absolute;
+top: 40px;
+right: 80px;
+font-family: 'Caveat', cursive;
+}
+
+
+.kota1
+{
+  position: absolute;
+  left: 610px;
+}
+
+.kota2
+{
+  position: absolute;
+  right: 660px;
+}
+
+.pesawat
+{
+  position: absolute;
+  margin-left: 0px;
+  width: 1500px;
+  right: 0px;
+  top: 100px;
+}
+
+.project
+{
+ font-family: 'Caveat', cursive;
+ position: absolute;
+ top: 40px;
+ right: 230px;
+}
+
+.tambal
+{
+  right: 0px;
+  top: 424px;
+  left: 1300px;
+  width: 50px;
+  height: 65px;
+  background-color: #39A388;
+  position: absolute;
+}

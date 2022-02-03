@@ -1,0 +1,144 @@
+body
+{
+background-color: #CFFFDC;
+text-align: center;
+position: relative;
+}
+
+.awan
+{
+ position: absolute;
+ top: 150px;
+ right: 0px;
+ width: 1500px;
+
+}
+
+.awan2
+{
+ position: absolute;
+ right: 0px;
+ top: 50px;
+ width: 1500px;
+
+}
+
+.awan3
+{
+ position: absolute;
+ right: 0px;
+ top: 100px;
+ width: 1500px;
+
+}
+
+.didi
+{
+  position: absolute;
+  height: 100;
+  width: 100;
+  top: 550px;
+  left: 580px;
+
+}
+
+.foto
+{
+position: absolute;
+}
+
+
+h1
+{
+  text-align : center;
+  color: #7900FF;
+  position: absolute;
+  font-family: 'Caveat', cursive;
+  margin-top: 0px;
+  top: 150px;
+  right: 600px;
+  margin-bottom: 0px;
+}
+
+.im
+{
+  color: #7900FF;
+  position: absolute;
+  font-family: 'Caveat', cursive;
+  top: 140px;
+  right: 750px;
+}
+.kemampuan
+{
+    position: absolute;
+    font-family: 'Caveat', cursive;
+    color: #7900FF;
+    right: 375px;
+    top: 700px;
+
+}
+
+.kontak
+{
+  position: absolute;
+  font-family: 'Caveat', cursive;
+  color: #7900FF;
+  right:230px;
+  top: 40px;
+}
+
+.p1
+{
+position: absolute;
+top: 600px;
+left: 30px;
+
+}
+
+.p2
+{
+  position: absolute;
+  top: 600px;
+  left:230px;
+}
+
+.p3
+{
+  position: absolute;
+  top: 600px;
+  left: 430px;
+
+}
+
+.p4
+{
+ position: absolute;
+ top: 600px;
+ left: 770px;
+ width: 100px;
+}
+
+.p5
+{
+  position: absolute;
+  top: 600px;
+  left: 970px;
+  width: 100px;
+}
+
+.p6
+{
+  position: absolute;
+  top: 600px;
+  left: 1170px;
+  width: 100px;
+}
+
+.project
+{
+  position: absolute;
+  font-family: 'Caveat', cursive;
+  color: #7900FF;
+  right: 80px;
+  top: 40px;
+}
